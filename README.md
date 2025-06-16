@@ -6,12 +6,6 @@ Welcome to the Attention Arc onboarding repository! This hands-on learning exper
 
 This repository contains two learning modules that will take you from basic data manipulation to building scalable data solutions. Each module builds upon the previous one, introducing new concepts and technologies.
 
-## 🛠️ Prerequisites
-
-- Python 3.8 or higher
-- Basic understanding of programming concepts
-- Familiarity with command line interface
-
 ## ⚡ Quick Setup
 
 Follow these steps to get your development environment ready:
