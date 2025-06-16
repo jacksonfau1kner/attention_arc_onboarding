@@ -31,6 +31,8 @@ POKEMON_INFO = pd.DataFrame(
 # 1          | 45 | 49     | 49
 # 2          | 60 | 62     | 63
 # 3          | 80 | 82     | 83
+# 6          | 78 | 84     | 78
+# 7          | 44 | 48     | 65
 
 POKEMON_STATS = pd.DataFrame(
     {
